@@ -1,16 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Connection",
     "\\Connection\\WebSocketConnection",
     "\\Controllers",
-    "\\DTO\\Request",
-    "\\DTO\\Response",
+    "\\Data",
     "\\Hub",
-    "\\Models\\SecretKeyModel",
-    "\\Properties",
-    "\\Services\\imp",
-    "\\Services\\template"
+    "\\MapperChat",
+    "\\Migrations",
+    "\\Properties"
   ],
-  "SelectedNode": "\\Hub\\ChatHub.cs",
+  "SelectedNode": "\\Migrations\\20240822082338_ud1.cs",
   "PreviewInSolutionExplorer": false
 }
