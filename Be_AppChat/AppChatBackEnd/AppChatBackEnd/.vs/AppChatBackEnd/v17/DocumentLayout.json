@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\App-Chat\\Be_AppChat\\AppChatBackEnd\\AppChatBackEnd\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\App-Chat\\Be_AppChat\\AppChatBackEnd\\AppChatBackEnd\\AppChatBackEnd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AppChatBackEnd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\App-Chat\\Be_AppChat\\AppChatBackEnd\\AppChatBackEnd\\Migrations\\DataContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\DataContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\App-Chat\\Be_AppChat\\AppChatBackEnd\\AppChatBackEnd\\Migrations\\20251023150749_InitialCreate.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251023150749_InitialCreate.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\App-Chat\\Be_AppChat\\AppChatBackEnd\\AppChatBackEnd\\Migrations\\20251023150749_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251023150749_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\App-Chat\\Be_AppChat\\AppChatBackEnd\\AppChatBackEnd\\Migrations\\20240822082338_ud1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240822082338_ud1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\App-Chat\\Be_AppChat\\AppChatBackEnd\\AppChatBackEnd\\Migrations\\20240822082338_ud1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240822082338_ud1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,25 +71,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppChatBackEnd.csproj",
+              "DocumentMoniker": "D:\\App-Chat\\Be_AppChat\\AppChatBackEnd\\AppChatBackEnd\\AppChatBackEnd.csproj",
+              "RelativeDocumentMoniker": "AppChatBackEnd.csproj",
+              "ToolTip": "D:\\App-Chat\\Be_AppChat\\AppChatBackEnd\\AppChatBackEnd\\AppChatBackEnd.csproj",
+              "RelativeToolTip": "AppChatBackEnd.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-28T06:29:59.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\App-Chat\\Be_AppChat\\AppChatBackEnd\\AppChatBackEnd\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "D:\\App-Chat\\Be_AppChat\\AppChatBackEnd\\AppChatBackEnd\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T06:29:43.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251023150749_InitialCreate.Designer.cs",
+              "DocumentMoniker": "D:\\App-Chat\\Be_AppChat\\AppChatBackEnd\\AppChatBackEnd\\Migrations\\20251023150749_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251023150749_InitialCreate.Designer.cs",
+              "ToolTip": "D:\\App-Chat\\Be_AppChat\\AppChatBackEnd\\AppChatBackEnd\\Migrations\\20251023150749_InitialCreate.Designer.cs",
+              "RelativeToolTip": "Migrations\\20251023150749_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T06:29:10.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251023150749_InitialCreate.cs",
+              "DocumentMoniker": "D:\\App-Chat\\Be_AppChat\\AppChatBackEnd\\AppChatBackEnd\\Migrations\\20251023150749_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251023150749_InitialCreate.cs",
+              "ToolTip": "D:\\App-Chat\\Be_AppChat\\AppChatBackEnd\\AppChatBackEnd\\Migrations\\20251023150749_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20251023150749_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T06:28:30.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240822082338_ud1.Designer.cs",
+              "DocumentMoniker": "D:\\App-Chat\\Be_AppChat\\AppChatBackEnd\\AppChatBackEnd\\Migrations\\20240822082338_ud1.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240822082338_ud1.Designer.cs",
+              "ToolTip": "D:\\App-Chat\\Be_AppChat\\AppChatBackEnd\\AppChatBackEnd\\Migrations\\20240822082338_ud1.Designer.cs",
+              "RelativeToolTip": "Migrations\\20240822082338_ud1.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAGcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T06:27:44.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "20240822082338_ud1.cs",
               "DocumentMoniker": "D:\\App-Chat\\Be_AppChat\\AppChatBackEnd\\AppChatBackEnd\\Migrations\\20240822082338_ud1.cs",
               "RelativeDocumentMoniker": "Migrations\\20240822082338_ud1.cs",
               "ToolTip": "D:\\App-Chat\\Be_AppChat\\AppChatBackEnd\\AppChatBackEnd\\Migrations\\20240822082338_ud1.cs",
               "RelativeToolTip": "Migrations\\20240822082338_ud1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-24T05:28:18.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "DataContext.cs",
               "DocumentMoniker": "D:\\App-Chat\\Be_AppChat\\AppChatBackEnd\\AppChatBackEnd\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Data\\DataContext.cs",
               "ToolTip": "D:\\App-Chat\\Be_AppChat\\AppChatBackEnd\\AppChatBackEnd\\Data\\DataContext.cs",
               "RelativeToolTip": "Data\\DataContext.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAALcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-24T05:26:39.942Z",
               "EditorCaption": ""

@@ -8,8 +8,9 @@
     "\\Hub",
     "\\MapperChat",
     "\\Migrations",
+    "\\Models",
     "\\Properties"
   ],
-  "SelectedNode": "\\Migrations\\20240822082338_ud1.cs",
+  "SelectedNode": "\\AppChatBackEnd.csproj",
   "PreviewInSolutionExplorer": false
 }
