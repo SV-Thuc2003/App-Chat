@@ -101,7 +101,7 @@ namespace AppChat.Data
                 UserId = 1,
                 UserName = "Yukihira",
                 Password = "", // 
-                Email = "0982407940ab@gmail.com",
+                Email = "thucho037@gmail.com",
                 Img = "", // 
                 RoleId = 1, // RoleId cho admin
                 UserDetail = new UserDetails
@@ -122,7 +122,7 @@ namespace AppChat.Data
                           UserId = 11,
                           UserName = "Yukihira",
                           Password = passwordHash,
-                          Email = "0982407940ab@gmail.com",
+                          Email = "thucho037@gmail.com",
                           Img = "http://res.cloudinary.com/dter3mlpl/image/upload/v1724040235/nnb6lhbvdiiucwdskh5u.jpg",
                           RoleId = 1, // RoleId cho admin
 
