@@ -1,0 +1,164 @@
+.details {
+    flex: 0.7;
+    align-items: center;
+}
+
+.user-chatting-details {
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    img {
+        width: 90px;
+        height: 90px;
+        border-radius: 50%;
+        object-fit: cover;
+        cursor: pointer;
+    }
+
+    h2 {
+        font-size: 30px;
+        font-weight: 500;
+    }
+
+    .icons {
+        display: flex;
+        gap: 20px;
+
+        img {
+            width: 30px;
+            height: 30px;
+            border-radius: 0;
+            object-fit: cover;
+        }
+
+        .add-group {
+            filter: invert(1);
+        }
+
+        .user {
+            filter: invert(1);
+            width: 25px;
+            height: 25px;
+        }
+
+        .delete-friend {
+            width: 30px;
+            height: 30px;
+            color: #ff4d4d;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 16px; /* Kích thước chữ */
+            cursor: pointer;
+            border: none; /* Xóa viền của nút */
+            transition: background-color 0.3s ease, transform 0.3s ease; /* Hiệu ứng chuyển tiếp */
+        }   
+    }
+
+    .report-content{
+        padding: 10px;
+    }
+}
+
+.user-chatting-details:first-of-type {
+    margin-top: 50px; 
+}
+
+.user-chatting-details:last-of-type {
+    margin-top: 30px; 
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border: 1px solid;
+}
+
+.user-chatting-details:last-of-type:hover {
+    background-color: #f0f0f0; /* Thay đổi màu nền khi hover */
+    border-color: red; /* Thay đổi màu viền khi hover */
+    transform: scale(1.05); /* Phóng to phần tử khi hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Thêm bóng đổ khi hover */
+    color: red;
+    font-size: 16px;
+}
+
+.modal-content {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.report-reason {
+    margin-bottom: 20px;
+}
+
+.report-reason label {
+    font-weight: bold;
+    margin-bottom: 8px;
+    display: block;
+    color: #333;
+}
+
+.report-reason input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+.report-actions {
+    display: flex;
+    justify-content: space-between;
+}
+
+.submit-reason-button,
+.cancel-reason-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.submit-reason-button {
+    background-color: #5183fe;
+    color: white;
+}
+
+.cancel-reason-button {
+    background-color: #f44336;
+    color: white;
+}
+
+.submit-reason-button:hover,
+.cancel-reason-button:hover {
+    opacity: 0.9;
+}
+.admin-text {
+    background-color: #989898; /* Light gray background */
+    border-radius: 8px;       /* Rounded corners */
+    padding: 20px;            /* Spacing inside the box */
+    margin: 10px 10px;           /* Space around the box */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    text-align: center;       /* Center align text */
+}
+
+.admin-text p {
+    margin: 10px 0;           /* Space between paragraphs */
+    font-size: 16px;          /* Font size */
+    color: #333;              /* Dark gray text color */
+}
+
+.admin-text p:first-of-type {
+    font-weight: bold;        /* Bold font for the first paragraph */
+    font-size: 18px;          /* Slightly larger font size */
+}
+
+.admin-text p:last-of-type {
+    font-size: 14px;          /* Slightly smaller font size */
+    color: #555;              /* Lighter gray text color */
+}
